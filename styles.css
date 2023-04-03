@@ -828,7 +828,7 @@ translate: -1px -1px;
     font-family: "poppins-regular", sans-serif;
   }
   footer a, footer a:visited {
-    color: #FFFFFF;
+    color: black;
   }
   footer a:hover, footer a:focus {
     color: #fed136;
@@ -853,7 +853,7 @@ translate: -1px -1px;
     padding: 0;
   }
   footer .footer-social li a {
-    color: #FFFFFF;
+    color: black;
   }
   footer .copyright span {
     display: inline-block;
